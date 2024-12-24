@@ -10,31 +10,30 @@ With experience in software development, cloud computing, and database managemen
 ---
 
 ## 💻 **Skills**
-- **Programming Languages:** Python, Java, C# (.NET), SQL, JavaScript, HTML, CSS, C, Go, React  
-- **Tools & Technologies:** AWS Cloud, Machine Learning, AI, Linux, Assembly Language  
-- **Soft Skills:** Agile Methodology, Interpersonal Communication, Multilingual (English, Vietnamese, Japanese)
+- **Languages:** Python, Java, C# (.NET), JavaScript, SQL, HTML, CSS, C, Go, React  
+- **Methodologies:** Agile Development, OOP, Cloud Architecture  
+- **Soft Skills:** Communication, Problem-Solving, Team Collaboration  
 
 ---
 
 ## 🚀 **Projects**
-[F.R.I.D.A.Y. Voice-Activated Digital Assistant](https://github.com/chdinh25/AI-ChatBot/tree/main/chatBot-v2-FRIDAY)
+### 🔊 [F.R.I.D.A.Y. Voice-Activated Digital Assistant](https://github.com/chdinh25/AI-ChatBot/tree/main/chatBot-v2-FRIDAY)
 
 A natural language-powered assistant that listens and executes tasks.  
 - **Tech Stack:** Python, pyttsx3 library, Google Voice-to-Text API  
 - **Features:** Translates speech to text, executes commands, and provides responses.
-- 📂 [https://github.com/chdinh25/AI-ChatBot/tree/main/chatBot-v2-FRIDAY](#)  
 
-### 🛒 **eCommerce Platform for Computer Parts**
+### 🛒 [eCommerce Platform for Computer Parts](https://github.com/chdinh25/ecommerce-platform)
+
 A full-stack eCommerce solution with catalog, cart, checkout, and inventory management.  
 - **Tech Stack:** C# (ASP.NET), HTML, JavaScript, MySQL  
 - **Highlights:** Designed customer-friendly frontend and implemented robust backend logic.
-- 📂 [https://github.com/chdinh25/Project_ShoopingCart](#)  
 
-### 📡 **TCP Socket Program**
+### 📡 [TCP Socket Program](https://github.com/chdinh25/tcp-socket-program)
+
 Simulated client-server communication using a Reverse-Echo Server and Client.  
 - **Tech Stack:** Python  
 - **Objective:** Demonstrated knowledge of network communication and socket programming.
-- 📂 [https://github.com/chdinh25/Python/tree/main/TCP%20socket%20program](#)  
 
 ---
 
@@ -55,5 +54,12 @@ Simulated client-server communication using a Reverse-Echo Server and Client.
 ## 💬 **Let’s Connect!**
 - 📧 Email: [chdinh25@gmail.com](mailto:chdinh25@gmail.com)  
 - 🌐 LinkedIn: [linkedin.com/in/chdinh25](https://www.linkedin.com/in/chdinh25/)  
-- 🔗 GitHub: [github.com/chdinh25](https://github.com/chdinh25)  
+- 🔗 GitHub: [github.com/chdinh25](https://github.com/chdinh25)
+
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="100">
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="30" fill="black">
+    Chris Dinh
+    <animate attributeName="fill" values="black;orange;black" dur="1s" repeatCount="indefinite" />
+  </text>
+</svg>
 
