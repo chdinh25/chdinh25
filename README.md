@@ -1,9 +1,8 @@
 
 # 👋 Hi, I'm Chris Dinh!
 
-🎓 **Computer Science Major | Software Engineering Enthusiast | AWS Certified Cloud Practitioner**  
-🌟 Passionate about solving real-world problems with software and cloud technologies, I aim to design 
-scalable and innovative solutions to make an impact. 
+🎓 **Computer Science Major | Aspiring AWS Solutions Architect | AWS Certified Cloud Practitioner**  
+Passionate about solving real-world problems with software and cloud technologies, I aim to design scalable and innovative solutions.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chdinh25&layout=compact&theme=radical)
 
