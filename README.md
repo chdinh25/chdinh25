@@ -40,6 +40,12 @@ Simulated client-server communication using a Reverse-Echo Server and Client.
 
 ---
 
+## 🎯 **Goals**
+- Currently preparing for the **AWS Solutions Architect Associate (SAA)** certification.  
+- Aspiring to become a **Solutions Architect**, designing innovative and scalable cloud solutions.  
+
+---
+
 ## 💬 **Let’s Connect!**
 - 📧 Email: [chdinh25@gmail.com](mailto:chdinh25@gmail.com)  
 - 🌐 LinkedIn: [linkedin.com/in/chdinh25](https://www.linkedin.com/in/chdinh25/)  
