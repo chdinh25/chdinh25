@@ -39,7 +39,8 @@ Simulated client-server communication using a Reverse-Echo Server and Client.
 ## 🌟 **Education**
 **Kennesaw State University**  
 - **B.S. Software Engineering** (GPA: 3.98, Expected Dec 2025)  
-- **Relevant Courses:** Algorithm Analysis, Cryptography, Operating Systems, Data Communication,   
+- **Relevant Courses:** Data Structure, Cryptography, Data Communication, Computer Organization Architecture, Algorithm Analysis, Computer Networks, Operating System![image](https://github.com/user-attachments/assets/1c65f0cc-5eef-4474-912e-4887a81fac98)
+   
 - **Certifications:** AWS Certified Cloud Practitioner  
 
 ---
