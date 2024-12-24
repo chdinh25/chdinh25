@@ -4,6 +4,7 @@
 🎓 **Computer Science Major | Software Engineering Enthusiast | AWS Certified Cloud Practitioner**  
 I'm a detail-oriented and creative student at Kennesaw State University, passionate about solving real-world problems through technology. 
 With experience in software development, cloud computing, and database management, I'm always looking to collaborate on impactful projects.
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chdinh25&layout=compact&theme=radical)
 
 ---
@@ -17,6 +18,7 @@ With experience in software development, cloud computing, and database managemen
 
 ## 🚀 **Projects**
 [F.R.I.D.A.Y. Voice-Activated Digital Assistant](https://github.com/chdinh25/AI-ChatBot/tree/main/chatBot-v2-FRIDAY)
+
 A natural language-powered assistant that listens and executes tasks.  
 - **Tech Stack:** Python, pyttsx3 library, Google Voice-to-Text API  
 - **Features:** Translates speech to text, executes commands, and provides responses.
