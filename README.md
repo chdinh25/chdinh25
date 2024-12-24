@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Chris Dinh!
+# 👋 Hi, I'm Chris!
 
 🎓 **Computer Science Major | Aspiring AWS Solutions Architect | AWS Certified Cloud Practitioner**  
 Passionate about solving real-world problems with software and cloud technologies, I aim to design scalable and innovative solutions.
