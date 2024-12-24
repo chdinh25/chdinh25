@@ -19,7 +19,7 @@ Passionate about solving real-world problems with software and cloud technologie
 ### 🔊 [F.R.I.D.A.Y. Voice-Activated Digital Assistant](https://github.com/chdinh25/AI-ChatBot/tree/main/chatBot-v2-FRIDAY)
 
 A natural language-powered assistant that listens and executes tasks.  
-- **Tech Stack:** Python, pyttsx3 library, Google Voice-to-Text API  
+- **Tech Stack:** Python, pyttsx3 library, Google Speech-to-Text API  
 - **Features:** Translates speech to text, executes commands, and provides responses.
 
 ### 🛒 [eCommerce Platform for Computer Parts](https://github.com/chdinh25/ecommerce-platform)
