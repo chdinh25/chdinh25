@@ -22,13 +22,13 @@ A natural language-powered assistant that listens and executes tasks.
 - **Tech Stack:** Python, pyttsx3 library, Google Speech-to-Text API  
 - **Features:** Translates speech to text, executes commands, and provides responses.
 
-### 🛒 [eCommerce Platform for Computer Parts](https://github.com/chdinh25/ecommerce-platform)
+### 🛒 [eCommerce Platform for Computer Parts](https://github.com/chdinh25/Project_ShoopingCart)
 
 A full-stack eCommerce solution with catalog, cart, checkout, and inventory management.  
 - **Tech Stack:** C# (ASP.NET), HTML, JavaScript, MySQL  
 - **Highlights:** Designed customer-friendly frontend and implemented robust backend logic.
 
-### 📡 [TCP Socket Program](https://github.com/chdinh25/tcp-socket-program)
+### 📡 [TCP Socket Program](https://github.com/chdinh25/Python/tree/main/TCP%20socket%20program)
 
 Simulated client-server communication using a Reverse-Echo Server and Client.  
 - **Tech Stack:** Python  
