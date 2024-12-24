@@ -18,17 +18,20 @@ With experience in software development, cloud computing, and database managemen
 ### 🔊 **F.R.I.D.A.Y. Voice-Activated Digital Assistant**
 A natural language-powered assistant that listens and executes tasks.  
 - **Tech Stack:** Python, `pyttsx3` library, Google Voice-to-Text API  
-- **Features:** Translates speech to text, executes commands, and provides responses.  
+- **Features:** Translates speech to text, executes commands, and provides responses.
+- 📂 [https://github.com/chdinh25/AI-ChatBot/tree/main/chatBot-v2-FRIDAY](#)  
 
 ### 🛒 **eCommerce Platform for Computer Parts**
 A full-stack eCommerce solution with catalog, cart, checkout, and inventory management.  
 - **Tech Stack:** C# (ASP.NET), HTML, JavaScript, MySQL  
-- **Highlights:** Designed customer-friendly frontend and implemented robust backend logic.  
+- **Highlights:** Designed customer-friendly frontend and implemented robust backend logic.
+- 📂 [https://github.com/chdinh25/Project_ShoopingCart](#)  
 
 ### 📡 **TCP Socket Program**
 Simulated client-server communication using a Reverse-Echo Server and Client.  
 - **Tech Stack:** Python  
-- **Objective:** Demonstrated knowledge of network communication and socket programming.  
+- **Objective:** Demonstrated knowledge of network communication and socket programming.
+- 📂 [https://github.com/chdinh25/Python/tree/main/TCP%20socket%20program](#)  
 
 ---
 
