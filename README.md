@@ -2,8 +2,8 @@
 # 👋 Hi, I'm Chris Dinh!
 
 🎓 **Computer Science Major | Software Engineering Enthusiast | AWS Certified Cloud Practitioner**  
-I'm a detail-oriented and creative student at Kennesaw State University, passionate about solving real-world problems through technology. 
-With experience in software development, cloud computing, and database management, I'm always looking to collaborate on impactful projects.
+🌟 Passionate about solving real-world problems with software and cloud technologies, I aim to design 
+scalable and innovative solutions to make an impact. 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chdinh25&layout=compact&theme=radical)
 
